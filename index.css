@@ -1,0 +1,49 @@
+h1 {
+    font-family: Helvetica;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    margin: auto;
+    padding: 8px 0;
+    z-index: 1;
+}
+
+#Mark_Hair_Metal {
+    height: 400px;
+    width: 280px;
+    position: relative;
+    text-align: center;
+    top: 55px;
+    border-radius: 20px;
+}
+
+.banner {
+    text-align: center;
+}
+
+.video {
+    text-align: center;
+}
+
+.video-size {
+    height: 300px;
+    width: 500px;
+    border-radius: 20px;
+}
+
+body {
+    margin: 0;
+    background-color: black;
+    padding-bottom: 20px;
+}
+
+p {
+    color: azure;
+    text-align: center;
+}
+
+h3 {
+    color: azure;
+}
